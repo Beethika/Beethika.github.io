@@ -7,10 +7,8 @@
 </div>
 
 # Academic Details
-<div style = "text-align: justify">
 - Completed B.Tech from Shree Ramswaroop Memorial College of Engineering and Management, Lucknow in Computer Science and Engineering in 2013.
 - Completed M.Tech from Birla Institute of Technology, Mesra in Computer Science and Engineering in 2015.
-</div>
 
 # Contact:
 
