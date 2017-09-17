@@ -1,2 +1,2 @@
-# beethika.github.io
+# Beethika.github.io
 Website
