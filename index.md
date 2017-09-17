@@ -12,6 +12,6 @@
 
 # Contact:
 
-[Resume](pdfs/resume.pdf)
+[Resume](resume.pdf)
 
 beethik [at] cse[dot]iitm[dot]ac[dot]in
