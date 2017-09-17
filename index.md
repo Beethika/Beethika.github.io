@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+<head>
+<title> Beethika Tripathi </title>
 
-You can use the [editor on GitHub](https://github.com/Beethika/Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+# About Me
+<div style = "text-align: justify"> I am currently pursuing my M.S. under Dr. Balaraman Ravindran and co-guided by Dr. Karthik Raman at IIT Madras. I joined IIT Madras in July 2015. My area of research is Machine Learning and Deep Learning for Complex Network Analysis. I am working on community detection algorithms and network representation learning algorithms to figure out structural patterns in the network that are responsible for various diseases. I am also looking at combining information from multiple networks (or multiplex network) whose nodes are same but they share a different biological relationship..
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Academic Details
+- Completed B.Tech from Shree Ramswaroop Memorial College of Engineering and Management, Lucknow in Computer Science and Engineering in 2013.
+- Completed M.Tech from Birla Institute of Technology, Mesra in Computer Science and Engineering in 2015.
 
-### Markdown
+# Contact:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Resume](pdfs/resume.pdf)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Beethika/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+beethik [at] cse[dot]iitm[dot]ac[dot]in
