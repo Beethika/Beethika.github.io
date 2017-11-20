@@ -15,3 +15,7 @@
 [Resume](resume.pdf)
 
 beethik [at] cse[dot]iitm[dot]ac[dot]in
+
+# Projects:
+[Repositories](https://github.com/Beethika)
+
